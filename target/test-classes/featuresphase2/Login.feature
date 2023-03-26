@@ -1,4 +1,4 @@
-Feature: Login Feature of Swag labs
+Feature: Login feature scenario
 
   @sanity
   Scenario: This scenario is login the Swag path using valid credentials

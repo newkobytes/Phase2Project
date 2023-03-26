@@ -1,4 +1,4 @@
-Feature: Adding Products
+Feature: Register Feature Scenario
 
   Background: 
     Given I launched to Swaglink
